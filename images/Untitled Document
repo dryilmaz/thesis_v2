@@ -1,0 +1,5 @@
+
+\par Basit bir ornek olarak MC methodu ile $\pi$ sayisinin degeri hesaplanabilir. Elimizdeki model de birim kare icine bir daire cizilirse birim kare icinde alinan bir noktanin daire icine dusme olasigi $\frac{\pi}{4}$ tur. MC yontemi ile bu noktalar rastgele secilerek pi sayisininin degerini hesaplayabiliyoruz. 
+\begin{equation}
+p=\frac{dairenin \quad alani}{karenin \quad alani} \Rightarrow \frac{\pi(\frac{r}{2})^2}{r^2} \Rightarrow \frac{\pi}{4}
+\end{equation}
